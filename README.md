@@ -3,18 +3,11 @@
 ### Full-Stack & AI Developer | UI/UX Designer | IoT & Cloud
 📍 **Mawanella, Sri Lanka** • 🎓 **BSc (Hons) in Information Technology – SLIIT (2021 – 2026)**
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="68%" valign="top" style="border: none; padding-right: 20px;">
-      Full-Stack &amp; AI Developer and recent <b>BSc (Hons) in Information Technology</b> graduate from <b>SLIIT</b>, with a six-month internship at <b>Sri Lanka Telecom (SLT Digital Lab)</b> building IoT dashboards and responsive enterprise UIs.<br><br>
-      I build web and AI applications using <b>React</b>, <b>Next.js</b>, <b>NestJS</b>, <b>Node.js</b>, and <b>Express.js</b> with <b>MongoDB</b> and <b>SQL</b>—including <b>RAG</b> research tools powered by <b>Gemini API</b> and <b>MongoDB Atlas Vector Search</b>.<br><br>
-      I blend <b>UI/UX design</b>, <b>IoT</b>, and <b>computer vision</b> research, backed by <b>Aviatrix Multicloud Networking</b>, <b>AWS Cloud Foundations</b>, and <b>OPSWAT Cybersecurity Fundamentals</b>.
-    </td>
-    <td width="32%" align="center" valign="middle" style="border: none; padding-left: 14px;">
-      <img src="https://raw.githubusercontent.com/GihanBandaraX/GihanBandaraX/main/assets/profile_img.jpg" alt="Gihan Bandara" width="175" style="border: 2px solid #38BDF8; border-radius: 12px; padding: 4px;" />
-    </td>
-  </tr>
-</table>
+Full-Stack & AI Developer and recent **BSc (Hons) in Information Technology** graduate from **SLIIT**, backed by a six-month internship at **Sri Lanka Telecom (SLT Digital Lab)** building IoT dashboards and responsive enterprise UIs.
+
+I engineer web and AI applications using **React**, **Next.js**, **NestJS**, **Node.js**, and **Express.js** with **MongoDB** and **SQL**—including **RAG** research assistants powered by the **Gemini API** and **MongoDB Atlas Vector Search**.
+
+I combine **UI/UX design**, **IoT**, and **computer vision** research, supported by credentials in **Aviatrix Multicloud Networking**, **AWS Cloud Foundations**, and **OPSWAT Cybersecurity Fundamentals**.
 
 ## 💼 Experience
 
@@ -43,7 +36,7 @@
 </p>
 
 <details>
-<summary><b>📂 View All 12 Skill Categories (Languages, Frameworks, AI, Cloud, Architecture, Soft Skills & Interests)</b></summary>
+<summary><b>📂 View All Skill Categories </b></summary>
 
 <br>
 

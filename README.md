@@ -28,18 +28,32 @@ I engineer full-stack and AI-powered web applications using **React**, **Next.js
 
 ---
 
-## 🛠️ Technical Skills
+### ⚡ Core Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,nestjs,nodejs,express,spring,html,react,nextjs,tailwind,mongodb,firebase,mysql,aws,azure,gcp,github,githubactions,postman,opencv,ai,vercel,vscode,figma,ps,xd&perline=14" alt="Core Tech Stack" />
+  </a>
+</p>
 
-* **Languages:** Java • JavaScript • TypeScript • Python • SQL
-* **Frontend:** React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Shadcn UI • Bootstrap • Responsive Design
-* **Backend:** Node.js • NestJS • Express.js • Spring Boot • Java Servlets • JSP • REST APIs • DTO Validation • Modular & Layered Architecture
-* **Auth & Security:** JWT Authentication • OAuth 2.0 (Google OAuth) • NextAuth.js • Role-Based Access Control • Session Management • Cybersecurity Fundamentals
-* **Databases:** MongoDB • MongoDB Atlas • Mongoose • Prisma ORM • MySQL • SQL Server • SQLite • JDBC
-* **AI & Computer Vision:** Generative AI & LLM Integration • Gemini API • RAG (Retrieval-Augmented Generation) • MongoDB Atlas Vector Search • Computer Vision • OpenCV • YOLOv8 • Object Detection • Model Training
-* **Cloud & DevOps Tools:** AWS • Microsoft Azure • Git • GitHub • GitHub Actions • Postman • Vercel • Railway
-* **UI/UX & Design:** Figma • Canva • Adobe Photoshop • Adobe XD • Wireframing • Prototyping
-* **Networking & IoT:** Networking Fundamentals • IoT Architecture & Communication Models • Device-to-Dashboard Integration • IoT Hardware Integration • IoT Security & Protocols
-* **Software Engineering:** Object-Oriented Programming • SDLC • Version Control • CRUD Operations • REST API Integration • API Testing • Software Testing Fundamentals • Technical Documentation
+<details>
+<summary><b>📂 View All 12 Skill Categories (Languages, Frameworks, AI, Cloud, Architecture, Soft Skills & Interests)</b></summary>
+
+<br>
+
+* **Programming Languages:** Java | JavaScript | TypeScript | Python | SQL
+* **Frontend Development:** React.js | Next.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap | Responsive Design
+* **Backend Development:** NestJS | Node.js | Express.js | Spring Boot | REST APIs | DTO Validation & Payload Handling | Modular & Layered Architecture
+* **Authentication & Security:** JWT Authentication | OAuth 2.0 (Google OAuth) | NextAuth.js | Role-Based Access Control | Session Management | Cybersecurity Fundamentals
+* **Databases:** MongoDB | MongoDB Atlas | Mongoose | MySQL | SQL Server | JDBC
+* **Cloud & Tools:** AWS | Microsoft Azure | Git | GitHub | GitHub Actions | Postman | Vercel | Railway
+* **AI & Computer Vision:** Generative AI & LLM Integration | Gemini API | RAG (Retrieval-Augmented Generation) | MongoDB Atlas Vector Search | Computer Vision | OpenCV | YOLOv8 | Object Detection | Model Training
+* **UI/UX & Design:** Figma | Canva | Adobe Photoshop | Adobe XD | Wireframing | Prototyping
+* **Networking & IoT:** Networking Fundamentals | IoT Architecture & Communication Models | Device-to-Dashboard Integration | IoT Hardware Integration
+* **Software Engineering:** Object-Oriented Programming | SDLC | Client-Server (Decoupled) Architecture | RESTful API Development & Integration | API Testing & Postman | CRUD Operations | Software Testing Fundamentals | Technical Documentation
+* **Soft Skills:** Strong Communication | Team Collaboration | Time Management | Organizational Skills | Analytical & Problem-Solving Abilities
+* **Interests:** Full-Stack Development | Artificial Intelligence | Cloud Computing | UI/UX Design
+
+</details>
 
 ---
 
@@ -53,14 +67,18 @@ I engineer full-stack and AI-powered web applications using **React**, **Next.js
 * **MediHelp (2023):** MERN health resource and inventory management system with CRUD workflows. *(MongoDB, Express, React, Node.js, Bootstrap)*
 * **Foodies (2023):** Culinary social media platform with dish sharing, social interactions, and REST APIs. *(Spring Boot, React.js, Java, MongoDB, REST API)*
 
-### IoT, Computer Vision & Web Apps
-* **Traffic Guardian (2024):** Intelligent traffic management system using **OpenCV**, **YOLOv8**, and **IoT** hardware with a web monitoring dashboard. *(Python, OpenCV, YOLOv8, Node.js, React, MySQL, IoT)*
-* **OrderSnap (2025):** Food ordering system with cart CRUD logic. *(Java Servlets, MySQL, Apache Tomcat)*
-* **MyPlanner (2025):** Event and vendor booking management web system. *(Java Servlets, JSP, MySQL, Apache Tomcat)*
+### 🤖 IoT, Computer Vision & ML Research
+* **Traffic Guardian (2024):** Intelligent traffic management system combining **OpenCV**, **YOLOv8**, and **IoT** hardware with a web monitoring dashboard. *(Python, OpenCV, YOLOv8, Node.js, React, MySQL, IoT)*
+
+### 🌐 Web Applications
+* **OrderSnap (2025):** Food ordering web application with cart management and CRUD operations. *(Java Servlets, MySQL, Apache Tomcat)*
+* **MyPlanner (2025):** Event and vendor booking management web system built with MVC architecture. *(Java Servlets, JSP, MySQL, Apache Tomcat)*
 * **Wedding Planning System (2021):** Event and booking management web application. *(HTML/CSS, JavaScript, MySQL, XAMPP)*
 
-### UI/UX Design
-* **Riyasewana UI Redesign (2023)** • **Eventra (2025)** • **Dish Delight (2025)** — Wireframing, user flows, prototyping, and UI mockups in *Figma*, *Adobe Photoshop*, and *Mockflow*.
+### 🎨 UI/UX Design
+* **Riyasewana UI Redesign (2023):** Redesigned key user flows including login, registration, and profile editing for improved usability. *(Figma, Mockflow, Adobe Photoshop)*
+* **Eventra (2025):** Mobile event management app UI/UX design featuring user flows, wireframes, and polished mockups. *(Figma, Wireframing, Adobe Photoshop)*
+* **Dish Delight (2025):** Minimal mobile food ordering app UI with a streamlined three-page flow. *(Figma, Prototyping, Adobe Photoshop)*
 
 ---
 
@@ -84,8 +102,8 @@ I engineer full-stack and AI-powered web applications using **React**, **Next.js
 
 ## 📫 Contact
 
-* 🌐 **Portfolio:** [https://gihan-bandara-portfolio.vercel.app/](https://gihan-bandara-portfolio.vercel.app/)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/gihan-s-bandara/](https://www.linkedin.com/in/gihan-s-bandara/)
-* 💻 **GitHub:** [https://github.com/GihanBandaraX](https://github.com/GihanBandaraX)
 * ✉️ **Email:** [gihansbandara99@gmail.com](mailto:gihansbandara99@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/gihan-s-bandara/](https://www.linkedin.com/in/gihan-s-bandara/)
+* 🌐 **Portfolio:** [https://gihan-bandara-portfolio.vercel.app/](https://gihan-bandara-portfolio.vercel.app/)
+* 💻 **GitHub:** [https://github.com/GihanBandaraX](https://github.com/GihanBandaraX)
 * 📞 **Phone:** +94 76 724 1653

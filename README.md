@@ -59,26 +59,80 @@ I combine **UI/UX design**, **IoT**, and **computer vision** research, supported
 
 ## 🚀 Featured Projects
 
-### Full-Stack & AI
-* **Taskora (2026):** Full-stack SaaS task management app with a modular **NestJS** REST API, **Prisma ORM (SQLite)**, and a **Next.js 16** dashboard featuring URL-synced status filtering, due-date sorting, overdue alerts, and **Docker Compose** orchestration. *(Next.js 16, NestJS, TypeScript, Prisma ORM, SQLite, Shadcn UI, Tailwind CSS)*
-* **ResearchMatrix AI (2026):** AI-powered academic literature and thesis synthesis platform built with **Next.js 16** and **Gemini** multimodal models, featuring literature matrix extraction, **Atlas Vector Search** RAG chat, duplicate checking, and interactive **React Flow** knowledge graphs. *(Next.js 16, MongoDB Atlas, Gemini API, React Flow, Tailwind CSS, NextAuth.js)*
-* **DevMate AI (2026):** AI developer and study hub integrated with **Gemini LLM** with authenticated and guest access modes. *(Node.js, Express.js, React.js, Gemini API, Tailwind CSS)*
-* **EduSmart (2025/2026):** Role-based Learning Management System with dashboards for Students, Teachers, and Admins, dynamic subject management, and OAuth/JWT auth. *(Express.js, React.js, Node.js, MongoDB Atlas, Tailwind CSS, OAuth)*
-* **MediHelp (2023):** MERN health resource and inventory management system with CRUD workflows. *(MongoDB, Express, React, Node.js, Bootstrap)*
-* **Foodies (2023):** Culinary social media platform with dish sharing, social interactions, and REST APIs. *(Spring Boot, React.js, Java, MongoDB, REST API)*
+## 🚀 Featured Projects
 
-### 🤖 IoT, Computer Vision & ML Research
-* **Traffic Guardian (2024):** Intelligent traffic management system combining **OpenCV**, **YOLOv8**, and **IoT** hardware with a web monitoring dashboard. *(Python, OpenCV, YOLOv8, Node.js, React, MySQL, IoT)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 ResearchMatrix AI (2026)</h3>
+      <p><b>AI Research &amp; Thesis Assistant</b> — Developed a Next.js application integrating Gemini API to analyze multiple research PDFs and generate comparison matrices. Implemented RAG-based chat using Atlas Vector Search for multi-paper Q&amp;A and citation retrieval, plus Google OAuth with NextAuth.js, a React Flow knowledge graph, and a thesis synthesizer.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>MongoDB Atlas</code> <code>Gemini API</code> <code>NextAuth.js</code> <code>React Flow</code> <code>Tailwind CSS</code></p>
+      <p><a href="https://github.com/GihanBandaraX/ResearchMatrix_2026">🔗 GitHub Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Taskora (2026)</h3>
+      <p><b>Full-Stack Task Management Application</b> — Engineered a modular NestJS REST API featuring strict DTO validation (class-validator) and persistent SQLite storage via Prisma ORM. Developed a responsive Next.js 16 App Router dashboard utilizing Shadcn UI, featuring URL-synced status filtering, due-date sorting, real-time search, and overdue alerts.</p>
+      <p><code>Next.js 16</code> <code>NestJS</code> <code>TypeScript</code> <code>Prisma ORM</code> <code>SQLite</code> <code>Shadcn UI</code> <code>Tailwind CSS</code></p>
+      <p><a href="https://github.com/GihanBandaraX/blue-harbor-task-manager">🔗 GitHub Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 DevMate AI (2026)</h3>
+      <p><b>AI Developer &amp; Study Platform</b> — Developed an AI-powered developer and study platform integrating the Gemini API. Implemented authenticated and guest access modes and deployed the application on Vercel.</p>
+      <p><code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Gemini API</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+      <p><a href="https://github.com/GihanBandaraX/DevMate-AI">🔗 GitHub Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 EduSmart (2026)</h3>
+      <p><b>Learning Management System</b> — Developed a full-stack MERN learning platform with role-based dashboards for students, teachers, and administrators, JWT and Google OAuth authentication, and dynamic subject management. Deployed frontend on Vercel and backend on Railway with MongoDB Atlas.</p>
+      <p><code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB Atlas</code> <code>Tailwind CSS</code> <code>JWT</code> <code>Google OAuth</code> <code>Vercel</code> <code>Railway</code></p>
+      <p><a href="https://github.com/GihanBandaraX/EduSmart-2025-MERN">🔗 GitHub Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚦 Traffic Guardian (2024)</h3>
+      <p><b>Intelligent Traffic Management (Group Research Project)</b> — Researched and developed an IoT-enabled traffic violation detection system using OpenCV and YOLOv8 (up to 70% detection accuracy). Built the web dashboard and integrated IoT hardware for automated violation detection, reporting, and technical research documentation.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>Node.js</code> <code>React.js</code> <code>JavaScript</code> <code>Bootstrap</code> <code>SQL Server</code> <code>IoT Devices</code></p>
+      <p><a href="https://github.com/GihanBandaraX/TrafficGuardian-Research-2024">🔗 GitHub Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Foodies (2023)</h3>
+      <p><b>Culinary Social Media Platform</b> — Developed a full-stack culinary social media platform following MVC architecture. Engineered User Management &amp; Security REST APIs for authentication, profile CRUD, and session management, alongside post lifecycles, social interactions, database operations, and API validation.</p>
+      <p><code>Spring Boot (Java)</code> <code>React.js</code> <code>MySQL / MongoDB (JDBC)</code> <code>MVC Architecture</code> <code>Apache Tomcat 9</code> <code>Postman</code></p>
+      <p><a href="https://github.com/GihanBandaraX/Foodies-Social-Media-App">🔗 GitHub Repository</a></p>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Web Applications
-* **OrderSnap (2025):** Food ordering web application with cart management and CRUD operations. *(Java Servlets, MySQL, Apache Tomcat)*
-* **MyPlanner (2025):** Event and vendor booking management web system built with MVC architecture. *(Java Servlets, JSP, MySQL, Apache Tomcat)*
-* **Wedding Planning System (2021):** Event and booking management web application. *(HTML/CSS, JavaScript, MySQL, XAMPP)*
+### 🎨 UI/UX Design Showcase
 
-### 🎨 UI/UX Design
-* **Riyasewana UI Redesign (2023):** Redesigned key user flows including login, registration, and profile editing for improved usability. *(Figma, Mockflow, Adobe Photoshop)*
-* **Eventra (2025):** Mobile event management app UI/UX design featuring user flows, wireframes, and polished mockups. *(Figma, Wireframing, Adobe Photoshop)*
-* **Dish Delight (2025):** Minimal mobile food ordering app UI with a streamlined three-page flow. *(Figma, Prototyping, Adobe Photoshop)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Riyasewana UI Redesign (2023)</h3>
+      <p>Redesigned key functionalities including Login, Registration, and Profile Editing to improve usability and navigation.</p>
+      <p><code>Figma</code> <code>Mockflow</code> <code>Adobe Photoshop</code></p>
+      <p><a href="https://www.figma.com/design/p5WwGYaCkSoJlOnZnsusuL/Completed-Protoype">🎨 View Project (Figma)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ Eventra (2025)</h3>
+      <p>UI/UX design project for an event management mobile app, featuring user flows, wireframes, and polished mockups.</p>
+      <p><code>Figma</code> <code>Wireframing</code> <code>Adobe Photoshop</code></p>
+      <p><a href="https://www.behance.net/gallery/229715817/Eventra">🖼️ View Project (Behance)</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍔 Dish Delight (2025)</h3>
+      <p>Minimal online food ordering app UI for mobile view with simple three-page interface for smooth user experience.</p>
+      <p><code>Figma</code> <code>Adobe Photoshop</code> <code>Prototyping</code></p>
+      <p><a href="https://www.behance.net/gallery/200509519/Dish-Delight">🖼️ View Project (Behance)</a></p>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
